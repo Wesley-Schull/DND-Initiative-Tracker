@@ -21,3 +21,13 @@ I would also like to build this with a pretty cohesive GUI that is easily readab
   - Might go even further and add a way to save an initiative tracker, so if a game ends mid-combat, everyone can come right back to it
 - If I add the entry/order saving options, I would like to look into adding images to each entry as well. Assigning a character with a character portrait would be nice! (Maybe just a little 35x35px square for each entry?)
 
+### Ideas From Friends
+- HP tracker
+- - Select die/dice to be rolled
+- - - Should I add a console that displays what was rolled?
+- - Enter custom modifier (default = 0)
+- - Click either a "Harm" or "Heal" button
+- - Target's HP is modified as a result
+- Individual Action Tracking
+- - A Fighter's "Attack" action has a number of attacks based on their Fighter level
+- - Casting a spell/cantrip takes 1 Action (unless it says otherwise)
